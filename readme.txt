@@ -1,6 +1,6 @@
 READ ME:
 
-Welcome to the 15122 Physics Mechanics Lab!
+Welcome to the 15112 Physics Mechanics Lab!
 
 Description: the 15112 Physics Mechanics Laboratory is a program where users can create their own physics models
 using a variety of different objects, including ramps, balls, blocks, springs, and frictional surfaces.
